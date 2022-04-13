@@ -119,6 +119,7 @@ nav ul li + li + li + li + li{
 }
 .content{
     max-width: 1000px;
+    heigth: 85vh;
     margin: 50px auto;
     display: flex;
     flex-direction: column;
